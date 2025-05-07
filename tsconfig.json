@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../invoice-api/tsconfig.json"  ]
 }
